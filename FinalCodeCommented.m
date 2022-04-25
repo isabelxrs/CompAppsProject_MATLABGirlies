@@ -1,7 +1,7 @@
 %BME 3053C Homework 2 MATLAB Header and Live Script
 
 %Author: Katelyn Wahl
-%Group Members: 
+%Group Members: Isabel Rivera Santiago, Leah Weintraub, Nicole Buenavida
 %Course: BME 3053C Computer Applications for BME
 %Term: Spring 2022
 %J. Crayton Pruitt Family Department of Biomedical Engineering
