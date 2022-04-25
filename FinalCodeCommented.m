@@ -11,6 +11,7 @@
 
 clc; clear; 
 
+% utilize original_glioma or original_meningioma zip files to access and upload original images
 % I = input('Filename: ');
 I = imread('menin15.jpg'); 
 
